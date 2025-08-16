@@ -1,0 +1,13 @@
+name: Feedback
+description: Share feedback or report a broken link on the profile README
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: What did you notice?
+      description: Please include the section and link, if relevant.
+      placeholder: e.g., The Image Gallery link returns 404
+    validations:
+      required: true

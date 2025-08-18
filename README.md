@@ -69,5 +69,3 @@ A simple place to log progress. Replace examples with your latest updates.
 #### 🤖 Smart checks for this profile
 This repo includes a workflow that **automatically checks for broken links** in your README weekly and on pull requests.  
 Look in [`.github/workflows/markdown-link-check.yml`](.github/workflows/markdown-link-check.yml).
-
-> To use this as your profile, **create a new repo named `mitanshigaur09`** and put this README.md in it.

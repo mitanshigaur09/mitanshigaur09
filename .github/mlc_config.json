@@ -1,14 +1,8 @@
 {
   "ignorePatterns": [
-    {
-      "pattern": "https://komarev.com/ghpvc/.*"
-    },
-    {
-      "pattern": "https://streak-stats.demolab.com.*"
-    },
-    {
-      "pattern": "https://github-readme-stats.vercel.app.*"
-    }
+    { "pattern": "https://komarev.com/ghpvc/.*" },
+    { "pattern": "https://streak-stats.demolab.com.*" },
+    { "pattern": "https://github-readme-stats.vercel.app.*" }
   ],
   "timeout": "20s"
 }

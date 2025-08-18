@@ -1,7 +1,3 @@
-<!--
-This is a special repository: if the repo name matches your GitHub username ("mitanshigaur09"),
-this README.md will appear on your profile page.
--->
 <h1 align="center">Hi, I'm Mitanshi Gaur 👋</h1>
 
 <p align="center">
@@ -39,11 +35,11 @@ this README.md will appear on your profile page.
   → https://github.com/mitanshigaur09/IoT-Infant-Baby-incubator
 - 📝 **To‑Do Application** – Quick add/remove lists, hosted on Netlify.  
   → https://github.com/mitanshigaur09/To-Do-Application
-- 🖼️ **Image Gallery** – Search, zoom/download, favorites, auth, back‑to‑top.  
+- 🖼️ **Image Gallery** – Search, zoom/download, favourites, auth, back‑to‑top.  
   → https://github.com/mitanshigaur09/image-gallery
 - 🏥 **Hospital Catalog** – Service catalog of hospital services.  
   → https://github.com/mitanshigaur09/hospital-catalog
-- 🧩 **Web_Desiging** – Useful snippets and assets for web designs.  
+- 🧩 **Web_Designing** – Useful snippets and assets for web designs.  
   → https://github.com/mitanshigaur09/Web_Desiging
 
 ### 📈 GitHub Stats (auto)
@@ -63,9 +59,3 @@ A simple place to log progress. Replace examples with your latest updates.
 
 ### 🧑‍💻 Find me
 - LinkedIn: https://www.linkedin.com/in/mitanshi-gaur-647833236
-
----
-
-#### 🤖 Smart checks for this profile
-This repo includes a workflow that **automatically checks for broken links** in your README weekly and on pull requests.  
-Look in [`.github/workflows/markdown-link-check.yml`](.github/workflows/markdown-link-check.yml).
